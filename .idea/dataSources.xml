@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2785928003">
+    <data-source source="LOCAL" name="PostgreSQL - dota2_counterpick@localhost" uuid="95163e6b-2af7-49d0-809d-b4c3ef373e13">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/dota2_counterpick</jdbc-url>
+    </data-source>
+  </component>
+</project>
